@@ -2,7 +2,7 @@
 
 <!--step0
 
-GitHub helps you secure your supply chain, from understanding the dependencies in your environment, to knowing about vulnerabilities in those dependencies and patching them.
+GitHuba helps you secure your supply chain, from understanding the dependencies in your environment, to knowing about vulnerabilities in those dependencies and patching them.
 
 - **Who this is for**: Developers, DevOps Engineers, Site Reliability Engineers, Security experts
 - **What you'll learn**: How to view repository dependencies, view Dependabot alerts, and enable Dependabot security and version updates
